@@ -1,2 +1,2 @@
 # ActiveDirectoryLab
-Active Directory, Powershell, Windows Server, Virutalization
+Skills Learned: Active Directory, Powershell, Windows Server, Virutalization
